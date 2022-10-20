@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/textcount_app/static/css/main.31d6cfe0.css",
+    "main.js": "/textcount_app/static/js/main.fc665df4.js",
+    "static/js/787.859602fe.chunk.js": "/textcount_app/static/js/787.859602fe.chunk.js",
+    "index.html": "/textcount_app/index.html",
+    "main.fc665df4.js.map": "/textcount_app/static/js/main.fc665df4.js.map",
+    "787.859602fe.chunk.js.map": "/textcount_app/static/js/787.859602fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fc665df4.js"
+  ]
+}
